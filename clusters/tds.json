@@ -45,6 +45,19 @@
       "uuid": "2680a4b1-84d1-4af0-8126-4429a90f8ef8",
       "value": "ShadowTDS"
     },
+        {
+      "description": "Appeared in January 2019 in several malspam campaign. Named from patterns associated to its calls: GetID / Email / NoScript. It's possible Gidens might be a victim facing component of BlackTDS",
+      "meta": {
+        "refs": [
+          ""
+        ],
+        "type": [
+          "Underground"
+        ]
+      },
+      "uuid": "7f7698b2-624d-4837-829b-db1e178e835b",
+      "value": "Gidens"
+    },
     {
       "description": "Sutra TDS was dominant from 2012 till 2015",
       "meta": {
